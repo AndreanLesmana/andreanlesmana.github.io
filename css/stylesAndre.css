@@ -1,0 +1,17 @@
+@media (min-width: 576px) {
+    .col-sm {
+      flex-basis: 0;
+      flex-grow: 1;
+      max-width: 100%;
+    }
+  }
+  
+
+.jumbotron{
+    padding-top: 2rem;
+    background-color: #399741;
+} 
+
+#gallery{
+  background-color: #399741;
+}
